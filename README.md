@@ -58,5 +58,17 @@
 
 ```bash
 git clone https://github.com/KenCodeDev/codesong.git
+```
+```bash
 cd codesong
+```
+```bash
 npm install
+```
+```bash
+npm start
+```
+
+Terimakasih telah menggunakan script ini ❤️
+
+Ada error? Hubungi developer via Instagram [@kenichi_ichi](https://instagram.com/kenichi_ichi "@kenichi_ichi")
