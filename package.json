@@ -1,0 +1,25 @@
+{
+  "name": "codesong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "bss": "node bergemasampaiselamanya.js",
+    "lktb": "node lihatkebunku.js",
+    "sawa": "node sampaiakhirwaktu.js",
+    "otk": "node ourstokeep.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "audio-decode": "^2.2.3",
+    "chalk": "^4.1.2",
+    "ffmpeg-static": "^5.2.0",
+    "figlet": "^1.9.3",
+    "play-dl": "^1.9.7",
+    "speaker": "^0.5.5"
+  }
+}
